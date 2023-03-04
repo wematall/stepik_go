@@ -1,2 +1,7 @@
 # stepik_go
-1.5/task_01 last digin in a number
+1.5
+task_01 последняя цифра в числе
+task_02 число десятков в числе
+
+
+
