@@ -10,4 +10,10 @@ func main() {
 	}
 	fmt.Println(sum)
 
+	// second example
+	var i = 1
+	for ; i < 10; i++ {
+		fmt.Println(i * i)
+	}
+
 }
