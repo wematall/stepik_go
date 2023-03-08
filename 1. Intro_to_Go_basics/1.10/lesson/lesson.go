@@ -28,4 +28,14 @@ func main() {
 		}
 	}
 
+	// endless loop
+	{
+		for {
+			// some code here
+			// to perform
+			fmt.Println("I'm endless loop example break")
+			break
+		}
+	}
+
 }
