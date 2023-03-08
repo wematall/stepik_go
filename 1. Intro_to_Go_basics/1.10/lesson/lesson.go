@@ -38,4 +38,13 @@ func main() {
 		}
 	}
 
+	// input while example
+	// example to enter data from CLI
+	{
+		fmt.Println("To exit enter 0")
+		var n int
+		for fmt.Scan(&n); n != 0; fmt.Scan(&n) {
+			fmt.Println(n)
+		}
+	}
 }
