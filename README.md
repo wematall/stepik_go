@@ -100,6 +100,11 @@
 66. task_66 to do
 67. task_67 to do
 ### 3.9 Threads 2
+68. task_68 to do
+69. task_69 to do
+70. task_70 to do
+71. task_71 to do
+72. task_72 to do
 
 
 
